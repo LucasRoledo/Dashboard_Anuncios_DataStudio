@@ -2,7 +2,9 @@
 
 # Acesso: https://lookerstudio.google.com/s/pVPIWIFzkj4
 
-
-Descrição: Durante o Projeto Integrador da faculdade, criei um dashboard utilizando o Google Looker para ajudar na otimização de gastos em anúncios em redes sociais.
-O dashboard foi criado para fornecer insights valiosos sobre o desempenho dos anúncios e ajudar a identificar áreas de melhoria, e com isso, criamos um melhor controle e visualização das principais métricas.
+Tema: Otimização da Performance de Anúncios
+Orientadores: Dr. Celio Aparecido Garcia
+Descrição: Dashboard criado com o objetivo compilar dados sobre a performance de anúncios, em
+diferentes
+plataformas de publicidade, de uma empresa de e-commerce.
 
