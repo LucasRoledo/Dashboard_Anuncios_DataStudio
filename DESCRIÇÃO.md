@@ -1,6 +1,6 @@
 # Dashboard_Anuncios_DataStudio
 
-# Acesso: https://lnkd.in/dQcW4tuC
+# Acesso: https://lookerstudio.google.com/s/pVPIWIFzkj4
 
 
 Descrição: Durante o Projeto Integrador da faculdade, criei um dashboard utilizando o Google Looker para ajudar na otimização de gastos em anúncios em redes sociais.
